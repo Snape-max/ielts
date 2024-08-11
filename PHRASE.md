@@ -49,3 +49,11 @@ at least 表肯定
 ### TEST 2 Section 4
 
 domestic	国内的，家庭的
+
+
+
+### TEST 3 Section2
+
+in relation to 关于，考虑到
+
+retailers 零售店
